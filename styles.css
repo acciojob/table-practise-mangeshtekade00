@@ -1,1 +1,9 @@
-/*  your css code here. If applicable */
+table {
+    background-color: yellow;
+    border-collapse: collapse;   /* removes double borders */
+}
+
+ td,th,table{
+    border: 1px solid black;
+    
+}
