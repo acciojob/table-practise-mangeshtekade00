@@ -1,6 +1,6 @@
 table {
     background-color: yellow;
-    border-collapse: collapse;   /* removes double borders */
+     /* removes double borders */
 }
 
  td,th,table{
